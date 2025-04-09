@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: i42lp0g34-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/i42lp0g34-java-springboot
